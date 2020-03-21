@@ -1,0 +1,8 @@
+C:\Users\Vlad\source\repos\TSP-Proj\bin\Debug\TSP-Proj.exe.config
+C:\Users\Vlad\source\repos\TSP-Proj\bin\Debug\TSP-Proj.exe
+C:\Users\Vlad\source\repos\TSP-Proj\bin\Debug\TSP-Proj.pdb
+C:\Users\Vlad\source\repos\TSP-Proj\obj\Debug\TSP-Proj.csprojAssemblyReference.cache
+C:\Users\Vlad\source\repos\TSP-Proj\obj\Debug\TSP_Proj.Properties.Resources.resources
+C:\Users\Vlad\source\repos\TSP-Proj\obj\Debug\TSP-Proj.csproj.GenerateResource.cache
+C:\Users\Vlad\source\repos\TSP-Proj\obj\Debug\TSP-Proj.exe
+C:\Users\Vlad\source\repos\TSP-Proj\obj\Debug\TSP-Proj.pdb
