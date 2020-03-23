@@ -1,0 +1,2 @@
+C:\Users\vladb\source\repos\Model-first\Model-first\obj\Debug\Model-first.csprojAssemblyReference.cache
+C:\Users\vladb\source\repos\Model-first\Model-first\obj\Debug\Model-first.csproj.CoreCompileInputs.cache
