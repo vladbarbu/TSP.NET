@@ -1,0 +1,14 @@
+C:\Users\vladb\source\repos\ObjectWCF\ObjectWCF\bin\Debug\ObjectWCF.dll
+C:\Users\vladb\source\repos\ObjectWCF\ObjectWCF\bin\Debug\ObjectWCF.pdb
+C:\Users\vladb\source\repos\ObjectWCF\ObjectWCF\bin\Debug\System.ServiceModel.Primitives.dll
+C:\Users\vladb\source\repos\ObjectWCF\ObjectWCF\bin\Debug\WCF si EF.dll
+C:\Users\vladb\source\repos\ObjectWCF\ObjectWCF\bin\Debug\EntityFramework.dll
+C:\Users\vladb\source\repos\ObjectWCF\ObjectWCF\bin\Debug\System.ServiceModel.Primitives.pdb
+C:\Users\vladb\source\repos\ObjectWCF\ObjectWCF\bin\Debug\WCF si EF.pdb
+C:\Users\vladb\source\repos\ObjectWCF\ObjectWCF\bin\Debug\WCF si EF.dll.config
+C:\Users\vladb\source\repos\ObjectWCF\ObjectWCF\bin\Debug\EntityFramework.xml
+C:\Users\vladb\source\repos\ObjectWCF\ObjectWCF\obj\Debug\ObjectWCF.csprojAssemblyReference.cache
+C:\Users\vladb\source\repos\ObjectWCF\ObjectWCF\obj\Debug\ObjectWCF.csproj.CoreCompileInputs.cache
+C:\Users\vladb\source\repos\ObjectWCF\ObjectWCF\obj\Debug\ObjectWCF.csproj.CopyComplete
+C:\Users\vladb\source\repos\ObjectWCF\ObjectWCF\obj\Debug\ObjectWCF.dll
+C:\Users\vladb\source\repos\ObjectWCF\ObjectWCF\obj\Debug\ObjectWCF.pdb

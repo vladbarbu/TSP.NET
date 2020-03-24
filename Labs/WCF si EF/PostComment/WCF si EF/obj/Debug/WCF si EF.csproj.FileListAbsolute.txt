@@ -1,0 +1,12 @@
+C:\Users\vladb\source\repos\WCF si EF\WCF si EF\bin\Debug\WCF si EF.dll.config
+C:\Users\vladb\source\repos\WCF si EF\WCF si EF\bin\Debug\WCF si EF.dll
+C:\Users\vladb\source\repos\WCF si EF\WCF si EF\bin\Debug\WCF si EF.pdb
+C:\Users\vladb\source\repos\WCF si EF\WCF si EF\bin\Debug\EntityFramework.dll
+C:\Users\vladb\source\repos\WCF si EF\WCF si EF\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\vladb\source\repos\WCF si EF\WCF si EF\bin\Debug\EntityFramework.xml
+C:\Users\vladb\source\repos\WCF si EF\WCF si EF\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\vladb\source\repos\WCF si EF\WCF si EF\obj\Debug\WCF si EF.csprojAssemblyReference.cache
+C:\Users\vladb\source\repos\WCF si EF\WCF si EF\obj\Debug\WCF si EF.csproj.CoreCompileInputs.cache
+C:\Users\vladb\source\repos\WCF si EF\WCF si EF\obj\Debug\WCF si EF.csproj.CopyComplete
+C:\Users\vladb\source\repos\WCF si EF\WCF si EF\obj\Debug\WCF si EF.dll
+C:\Users\vladb\source\repos\WCF si EF\WCF si EF\obj\Debug\WCF si EF.pdb
