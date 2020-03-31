@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29911.84
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PhotoPropsWCF", "PhotoProps\PhotoPropsWCF.csproj", "{726F15C3-817B-48E2-A7C7-610B032D5404}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HostWCF", "HostWCF\HostWCF.csproj", "{DC6C5377-7573-46F5-A080-7F989C48956F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{726F15C3-817B-48E2-A7C7-610B032D5404}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{726F15C3-817B-48E2-A7C7-610B032D5404}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{726F15C3-817B-48E2-A7C7-610B032D5404}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{726F15C3-817B-48E2-A7C7-610B032D5404}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DC6C5377-7573-46F5-A080-7F989C48956F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DC6C5377-7573-46F5-A080-7F989C48956F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DC6C5377-7573-46F5-A080-7F989C48956F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DC6C5377-7573-46F5-A080-7F989C48956F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E3507D84-64D8-48AA-A4C3-1F7A6628C608}
+	EndGlobalSection
+EndGlobal

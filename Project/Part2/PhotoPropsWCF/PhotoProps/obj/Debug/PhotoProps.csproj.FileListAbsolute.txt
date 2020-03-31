@@ -1,0 +1,14 @@
+C:\Users\vladb\source\repos\PhotoProps\PhotoProps\bin\Debug\PhotoProps.dll
+C:\Users\vladb\source\repos\PhotoProps\PhotoProps\bin\Debug\PhotoProps.pdb
+C:\Users\vladb\source\repos\PhotoProps\PhotoProps\bin\Debug\ModelApi.dll
+C:\Users\vladb\source\repos\PhotoProps\PhotoProps\bin\Debug\System.ServiceModel.Primitives.dll
+C:\Users\vladb\source\repos\PhotoProps\PhotoProps\bin\Debug\EntityFramework.dll
+C:\Users\vladb\source\repos\PhotoProps\PhotoProps\bin\Debug\ModelApi.pdb
+C:\Users\vladb\source\repos\PhotoProps\PhotoProps\bin\Debug\ModelApi.dll.config
+C:\Users\vladb\source\repos\PhotoProps\PhotoProps\bin\Debug\System.ServiceModel.Primitives.pdb
+C:\Users\vladb\source\repos\PhotoProps\PhotoProps\bin\Debug\EntityFramework.xml
+C:\Users\vladb\source\repos\PhotoProps\PhotoProps\obj\Debug\PhotoProps.csprojAssemblyReference.cache
+C:\Users\vladb\source\repos\PhotoProps\PhotoProps\obj\Debug\PhotoProps.csproj.CoreCompileInputs.cache
+C:\Users\vladb\source\repos\PhotoProps\PhotoProps\obj\Debug\PhotoProps.csproj.CopyComplete
+C:\Users\vladb\source\repos\PhotoProps\PhotoProps\obj\Debug\PhotoProps.dll
+C:\Users\vladb\source\repos\PhotoProps\PhotoProps\obj\Debug\PhotoProps.pdb

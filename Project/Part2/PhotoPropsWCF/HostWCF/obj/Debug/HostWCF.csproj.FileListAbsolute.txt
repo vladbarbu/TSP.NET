@@ -1,0 +1,2 @@
+C:\Users\vladb\source\repos\PhotoProps\HostWCF\obj\Debug\HostWCF.csprojAssemblyReference.cache
+C:\Users\vladb\source\repos\PhotoProps\HostWCF\obj\Debug\HostWCF.csproj.CoreCompileInputs.cache
