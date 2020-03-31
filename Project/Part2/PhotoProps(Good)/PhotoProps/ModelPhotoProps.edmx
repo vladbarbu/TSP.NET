@@ -1,0 +1,135 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+  <!-- EF Runtime content -->
+  <edmx:Runtime>
+    <!-- SSDL content -->
+    <edmx:StorageModels>
+    <Schema Namespace="ModelPhotoProps.Store" Alias="Self" Provider="System.Data.SqlClient" ProviderManifestToken="2012" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityContainer Name="ModelPhotoPropsStoreContainer">
+    <EntitySet Name="Photos" EntityType="ModelPhotoProps.Store.Photos" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="Props" EntityType="ModelPhotoProps.Store.Props" store:Type="Tables" Schema="dbo" />
+    <AssociationSet Name="PhotoProps" Association="ModelPhotoProps.Store.PhotoProps">
+      <End Role="Photo" EntitySet="Photos" />
+      <End Role="Props" EntitySet="Props" />
+    </AssociationSet>
+  </EntityContainer>
+  <EntityType Name="Photos">
+    <Key>
+      <PropertyRef Name="Photo_Id" />
+    </Key>
+    <Property Name="Photo_Id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="Photo_Path" Type="nvarchar(max)" Nullable="false" />
+    <Property Name="Photo_Date" Type="datetime" Nullable="false" />
+  </EntityType>
+  <EntityType Name="Props">
+    <Key>
+      <PropertyRef Name="Property_Id" />
+    </Key>
+    <Property Name="Property_Id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="Property_Name" Type="nvarchar(max)" Nullable="false" />
+    <Property Name="Property_Description" Type="nvarchar(max)" Nullable="false" />
+    <Property Name="PhotoPhoto_Id" Type="int" Nullable="false" />
+  </EntityType>
+  <Association Name="PhotoProps">
+    <End Role="Photo" Type="ModelPhotoProps.Store.Photos" Multiplicity="1" />
+    <End Role="Props" Type="ModelPhotoProps.Store.Props" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Photo">
+        <PropertyRef Name="Photo_Id" />
+      </Principal>
+      <Dependent Role="Props">
+        <PropertyRef Name="PhotoPhoto_Id" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+</Schema></edmx:StorageModels>
+    <!-- CSDL content -->
+    <edmx:ConceptualModels>
+      <Schema xmlns="http://schemas.microsoft.com/ado/2009/11/edm" xmlns:cg="http://schemas.microsoft.com/ado/2006/04/codegeneration" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" Namespace="ModelPhotoProps" Alias="Self" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" annotation:UseStrongSpatialTypes="false">
+        <EntityContainer Name="ModelPhotoPropsContainer" annotation:LazyLoadingEnabled="true">
+          <EntitySet Name="Photos" EntityType="ModelPhotoProps.Photo" />
+          <EntitySet Name="Props" EntityType="ModelPhotoProps.Props" />
+          <AssociationSet Name="PhotoProps" Association="ModelPhotoProps.PhotoProps">
+            <End Role="Photo" EntitySet="Photos" />
+            <End Role="Props" EntitySet="Props" />
+          </AssociationSet>
+        </EntityContainer>
+        <EntityType Name="Photo">
+          <Key>
+            <PropertyRef Name="Photo_Id" />
+          </Key>
+          <Property Name="Photo_Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+          <Property Name="Photo_Path" Type="String" Nullable="false" />
+          <Property Name="Photo_Date" Type="DateTime" Nullable="false" />
+          <NavigationProperty Name="Props" Relationship="ModelPhotoProps.PhotoProps" FromRole="Photo" ToRole="Props" />
+        </EntityType>
+        <EntityType Name="Props">
+          <Key>
+            <PropertyRef Name="Property_Id" />
+          </Key>
+          <Property Name="Property_Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+          <Property Name="Property_Name" Type="String" Nullable="false" />
+          <Property Name="Property_Description" Type="String" Nullable="false" />
+          <NavigationProperty Name="Photo" Relationship="ModelPhotoProps.PhotoProps" FromRole="Props" ToRole="Photo" />
+          <Property Name="PhotoPhoto_Id" Type="Int32" Nullable="false" />
+        </EntityType>
+        <Association Name="PhotoProps">
+          <End Type="ModelPhotoProps.Photo" Role="Photo" Multiplicity="1" />
+          <End Type="ModelPhotoProps.Props" Role="Props" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="Photo">
+              <PropertyRef Name="Photo_Id" />
+            </Principal>
+            <Dependent Role="Props">
+              <PropertyRef Name="PhotoPhoto_Id" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+      </Schema>
+    </edmx:ConceptualModels>
+    <!-- C-S mapping content -->
+    <edmx:Mappings>
+    <Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="ModelPhotoPropsStoreContainer" CdmEntityContainer="ModelPhotoPropsContainer">
+    <EntitySetMapping Name="Photos">
+      <EntityTypeMapping TypeName="IsTypeOf(ModelPhotoProps.Photo)">
+        <MappingFragment StoreEntitySet="Photos">
+          <ScalarProperty Name="Photo_Id" ColumnName="Photo_Id" />
+          <ScalarProperty Name="Photo_Path" ColumnName="Photo_Path" />
+          <ScalarProperty Name="Photo_Date" ColumnName="Photo_Date" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Props">
+      <EntityTypeMapping TypeName="IsTypeOf(ModelPhotoProps.Props)">
+        <MappingFragment StoreEntitySet="Props">
+          <ScalarProperty Name="Property_Id" ColumnName="Property_Id" />
+          <ScalarProperty Name="Property_Name" ColumnName="Property_Name" />
+          <ScalarProperty Name="Property_Description" ColumnName="Property_Description" />
+          <ScalarProperty Name="PhotoPhoto_Id" ColumnName="PhotoPhoto_Id" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping></edmx:Mappings>
+  </edmx:Runtime>
+  <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <edmx:Connection>
+      <DesignerInfoPropertySet>
+        <DesignerProperty Name="MetadataArtifactProcessing" Value="EmbedInOutputAssembly" />
+      </DesignerInfoPropertySet>
+    </edmx:Connection>
+    <edmx:Options>
+      <DesignerInfoPropertySet>
+        <DesignerProperty Name="ValidateOnBuild" Value="true" />
+        <DesignerProperty Name="EnablePluralization" Value="True" />
+        <DesignerProperty Name="CodeGenerationStrategy" Value="None" />
+        <DesignerProperty Name="UseLegacyProvider" Value="False" />
+      </DesignerInfoPropertySet>
+    </edmx:Options>
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>
