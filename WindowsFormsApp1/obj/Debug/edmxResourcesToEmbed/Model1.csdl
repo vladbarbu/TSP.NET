@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema xmlns="http://schemas.microsoft.com/ado/2009/11/edm" xmlns:cg="http://schemas.microsoft.com/ado/2006/04/codegeneration" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" Namespace="Model1" Alias="Self" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" annotation:UseStrongSpatialTypes="false">
+  <EntityContainer Name="Model1Container" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="Photos" EntityType="Model1.Photo" />
+    <EntitySet Name="Props" EntityType="Model1.Props" />
+    <AssociationSet Name="PhotoProps" Association="Model1.PhotoProps">
+      <End Role="Photo" EntitySet="Photos" />
+      <End Role="Props" EntitySet="Props" />
+    </AssociationSet>
+  </EntityContainer>
+  <EntityType Name="Photo">
+    <Key>
+      <PropertyRef Name="Photo_Id" />
+    </Key>
+    <Property Name="Photo_Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Photo_Name" Type="String" Nullable="false" MaxLength="Max" Unicode="true" FixedLength="false" />
+    <Property Name="Photo_Path" Type="String" Nullable="false" MaxLength="Max" Unicode="true" FixedLength="false" />
+    <NavigationProperty Name="Props" Relationship="Model1.PhotoProps" FromRole="Photo" ToRole="Props" />
+    <Property Name="Photo_Date" Type="DateTime" Nullable="false" />
+  </EntityType>
+  <EntityType Name="Props">
+    <Key>
+      <PropertyRef Name="Props_Id" />
+    </Key>
+    <Property Name="Props_Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Props_Name" Type="String" Nullable="false" MaxLength="Max" Unicode="true" FixedLength="false" />
+    <Property Name="Props_Description" Type="String" Nullable="false" MaxLength="Max" Unicode="true" FixedLength="false" />
+    <NavigationProperty Name="Photo" Relationship="Model1.PhotoProps" FromRole="Props" ToRole="Photo" />
+    <Property Name="PhotoPhoto_Id" Type="Int32" Nullable="false" />
+  </EntityType>
+  <Association Name="PhotoProps">
+    <End Type="Model1.Photo" Role="Photo" Multiplicity="1" />
+    <End Type="Model1.Props" Role="Props" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Photo">
+        <PropertyRef Name="Photo_Id" />
+      </Principal>
+      <Dependent Role="Props">
+        <PropertyRef Name="PhotoPhoto_Id" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+</Schema>
