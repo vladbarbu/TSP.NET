@@ -1,0 +1,17 @@
+C:\Users\vladb\source\repos\PhotoProps\PhotoPropsForm\obj\Debug\PhotoPropsForm.csprojAssemblyReference.cache
+C:\Users\vladb\source\repos\PhotoProps\PhotoPropsForm\obj\Debug\PhotoPropsForm.Form1.resources
+C:\Users\vladb\source\repos\PhotoProps\PhotoPropsForm\obj\Debug\PhotoPropsForm.Properties.Resources.resources
+C:\Users\vladb\source\repos\PhotoProps\PhotoPropsForm\obj\Debug\PhotoPropsForm.csproj.GenerateResource.cache
+C:\Users\vladb\source\repos\PhotoProps\PhotoPropsForm\obj\Debug\PhotoPropsForm.csproj.CoreCompileInputs.cache
+C:\Users\vladb\source\repos\PhotoProps\PhotoPropsForm\bin\Debug\PhotoPropsForm.exe.config
+C:\Users\vladb\source\repos\PhotoProps\PhotoPropsForm\bin\Debug\PhotoPropsForm.exe
+C:\Users\vladb\source\repos\PhotoProps\PhotoPropsForm\bin\Debug\PhotoPropsForm.pdb
+C:\Users\vladb\source\repos\PhotoProps\PhotoPropsForm\bin\Debug\System.ServiceModel.Primitives.dll
+C:\Users\vladb\source\repos\PhotoProps\PhotoPropsForm\bin\Debug\System.ServiceModel.Primitives.pdb
+C:\Users\vladb\source\repos\PhotoProps\PhotoPropsForm\obj\Debug\PhotoPropsForm.csproj.CopyComplete
+C:\Users\vladb\source\repos\PhotoProps\PhotoPropsForm\obj\Debug\PhotoPropsForm.exe
+C:\Users\vladb\source\repos\PhotoProps\PhotoPropsForm\obj\Debug\PhotoPropsForm.pdb
+C:\Users\vladb\source\repos\PhotoProps\PhotoPropsForm\bin\Debug\EntityFramework.dll
+C:\Users\vladb\source\repos\PhotoProps\PhotoPropsForm\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\vladb\source\repos\PhotoProps\PhotoPropsForm\bin\Debug\EntityFramework.xml
+C:\Users\vladb\source\repos\PhotoProps\PhotoPropsForm\bin\Debug\EntityFramework.SqlServer.xml
