@@ -12,3 +12,11 @@ C:\Users\vladb\source\repos\ObjectWCF\ObjectWCF\obj\Debug\ObjectWCF.csproj.CoreC
 C:\Users\vladb\source\repos\ObjectWCF\ObjectWCF\obj\Debug\ObjectWCF.csproj.CopyComplete
 C:\Users\vladb\source\repos\ObjectWCF\ObjectWCF\obj\Debug\ObjectWCF.dll
 C:\Users\vladb\source\repos\ObjectWCF\ObjectWCF\obj\Debug\ObjectWCF.pdb
+F:\GitHub\TSP.NET\Labs\WCF si EF\ObjectWCF\ObjectWCF\bin\Debug\ObjectWCF.dll
+F:\GitHub\TSP.NET\Labs\WCF si EF\ObjectWCF\ObjectWCF\bin\Debug\ObjectWCF.pdb
+F:\GitHub\TSP.NET\Labs\WCF si EF\ObjectWCF\ObjectWCF\bin\Debug\System.ServiceModel.Primitives.dll
+F:\GitHub\TSP.NET\Labs\WCF si EF\ObjectWCF\ObjectWCF\bin\Debug\System.ServiceModel.Primitives.pdb
+F:\GitHub\TSP.NET\Labs\WCF si EF\ObjectWCF\ObjectWCF\obj\Debug\ObjectWCF.csproj.CoreCompileInputs.cache
+F:\GitHub\TSP.NET\Labs\WCF si EF\ObjectWCF\ObjectWCF\obj\Debug\ObjectWCF.csproj.CopyComplete
+F:\GitHub\TSP.NET\Labs\WCF si EF\ObjectWCF\ObjectWCF\obj\Debug\ObjectWCF.dll
+F:\GitHub\TSP.NET\Labs\WCF si EF\ObjectWCF\ObjectWCF\obj\Debug\ObjectWCF.pdb

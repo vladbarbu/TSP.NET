@@ -10,3 +10,15 @@ C:\Users\vladb\source\repos\WCF si EF\WCF si EF\obj\Debug\WCF si EF.csproj.CoreC
 C:\Users\vladb\source\repos\WCF si EF\WCF si EF\obj\Debug\WCF si EF.csproj.CopyComplete
 C:\Users\vladb\source\repos\WCF si EF\WCF si EF\obj\Debug\WCF si EF.dll
 C:\Users\vladb\source\repos\WCF si EF\WCF si EF\obj\Debug\WCF si EF.pdb
+F:\GitHub\TSP.NET\Labs\WCF si EF\PostComment\WCF si EF\bin\Debug\WCF si EF.dll.config
+F:\GitHub\TSP.NET\Labs\WCF si EF\PostComment\WCF si EF\bin\Debug\WCF si EF.dll
+F:\GitHub\TSP.NET\Labs\WCF si EF\PostComment\WCF si EF\bin\Debug\WCF si EF.pdb
+F:\GitHub\TSP.NET\Labs\WCF si EF\PostComment\WCF si EF\bin\Debug\EntityFramework.dll
+F:\GitHub\TSP.NET\Labs\WCF si EF\PostComment\WCF si EF\bin\Debug\EntityFramework.SqlServer.dll
+F:\GitHub\TSP.NET\Labs\WCF si EF\PostComment\WCF si EF\bin\Debug\EntityFramework.xml
+F:\GitHub\TSP.NET\Labs\WCF si EF\PostComment\WCF si EF\bin\Debug\EntityFramework.SqlServer.xml
+F:\GitHub\TSP.NET\Labs\WCF si EF\PostComment\WCF si EF\obj\Debug\WCF si EF.csprojAssemblyReference.cache
+F:\GitHub\TSP.NET\Labs\WCF si EF\PostComment\WCF si EF\obj\Debug\WCF si EF.csproj.CoreCompileInputs.cache
+F:\GitHub\TSP.NET\Labs\WCF si EF\PostComment\WCF si EF\obj\Debug\WCF si EF.csproj.CopyComplete
+F:\GitHub\TSP.NET\Labs\WCF si EF\PostComment\WCF si EF\obj\Debug\WCF si EF.dll
+F:\GitHub\TSP.NET\Labs\WCF si EF\PostComment\WCF si EF\obj\Debug\WCF si EF.pdb

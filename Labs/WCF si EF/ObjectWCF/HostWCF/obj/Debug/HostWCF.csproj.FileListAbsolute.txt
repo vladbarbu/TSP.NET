@@ -15,3 +15,16 @@ C:\Users\vladb\source\repos\ObjectWCF\HostWCF\bin\Debug\WCF si EF.pdb
 C:\Users\vladb\source\repos\ObjectWCF\HostWCF\bin\Debug\WCF si EF.dll.config
 C:\Users\vladb\source\repos\ObjectWCF\HostWCF\bin\Debug\EntityFramework.xml
 C:\Users\vladb\source\repos\ObjectWCF\HostWCF\obj\Debug\HostWCF.csproj.CopyComplete
+F:\GitHub\TSP.NET\Labs\WCF si EF\ObjectWCF\HostWCF\bin\Debug\HostWCF.exe.config
+F:\GitHub\TSP.NET\Labs\WCF si EF\ObjectWCF\HostWCF\bin\Debug\HostWCF.exe
+F:\GitHub\TSP.NET\Labs\WCF si EF\ObjectWCF\HostWCF\bin\Debug\HostWCF.pdb
+F:\GitHub\TSP.NET\Labs\WCF si EF\ObjectWCF\HostWCF\bin\Debug\ObjectWCF.dll
+F:\GitHub\TSP.NET\Labs\WCF si EF\ObjectWCF\HostWCF\bin\Debug\System.ServiceModel.Primitives.dll
+F:\GitHub\TSP.NET\Labs\WCF si EF\ObjectWCF\HostWCF\bin\Debug\WCF si EF.dll
+F:\GitHub\TSP.NET\Labs\WCF si EF\ObjectWCF\HostWCF\bin\Debug\ObjectWCF.pdb
+F:\GitHub\TSP.NET\Labs\WCF si EF\ObjectWCF\HostWCF\bin\Debug\System.ServiceModel.Primitives.pdb
+F:\GitHub\TSP.NET\Labs\WCF si EF\ObjectWCF\HostWCF\obj\Debug\HostWCF.csprojAssemblyReference.cache
+F:\GitHub\TSP.NET\Labs\WCF si EF\ObjectWCF\HostWCF\obj\Debug\HostWCF.csproj.CoreCompileInputs.cache
+F:\GitHub\TSP.NET\Labs\WCF si EF\ObjectWCF\HostWCF\obj\Debug\HostWCF.csproj.CopyComplete
+F:\GitHub\TSP.NET\Labs\WCF si EF\ObjectWCF\HostWCF\obj\Debug\HostWCF.exe
+F:\GitHub\TSP.NET\Labs\WCF si EF\ObjectWCF\HostWCF\obj\Debug\HostWCF.pdb
