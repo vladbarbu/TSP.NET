@@ -20,3 +20,17 @@ F:\GitHub\TSP.NET\Labs\WCF si EF\ObjectWCF\ObjectWCF\obj\Debug\ObjectWCF.csproj.
 F:\GitHub\TSP.NET\Labs\WCF si EF\ObjectWCF\ObjectWCF\obj\Debug\ObjectWCF.csproj.CopyComplete
 F:\GitHub\TSP.NET\Labs\WCF si EF\ObjectWCF\ObjectWCF\obj\Debug\ObjectWCF.dll
 F:\GitHub\TSP.NET\Labs\WCF si EF\ObjectWCF\ObjectWCF\obj\Debug\ObjectWCF.pdb
+D:\TILN\TSP.NET\Labs\WCF si EF\ObjectWCF\ObjectWCF\bin\Debug\ObjectWCF.dll
+D:\TILN\TSP.NET\Labs\WCF si EF\ObjectWCF\ObjectWCF\bin\Debug\ObjectWCF.pdb
+D:\TILN\TSP.NET\Labs\WCF si EF\ObjectWCF\ObjectWCF\bin\Debug\System.ServiceModel.Primitives.dll
+D:\TILN\TSP.NET\Labs\WCF si EF\ObjectWCF\ObjectWCF\bin\Debug\WCF si EF.dll
+D:\TILN\TSP.NET\Labs\WCF si EF\ObjectWCF\ObjectWCF\bin\Debug\EntityFramework.dll
+D:\TILN\TSP.NET\Labs\WCF si EF\ObjectWCF\ObjectWCF\bin\Debug\System.ServiceModel.Primitives.pdb
+D:\TILN\TSP.NET\Labs\WCF si EF\ObjectWCF\ObjectWCF\bin\Debug\WCF si EF.pdb
+D:\TILN\TSP.NET\Labs\WCF si EF\ObjectWCF\ObjectWCF\bin\Debug\WCF si EF.dll.config
+D:\TILN\TSP.NET\Labs\WCF si EF\ObjectWCF\ObjectWCF\bin\Debug\EntityFramework.xml
+D:\TILN\TSP.NET\Labs\WCF si EF\ObjectWCF\ObjectWCF\obj\Debug\ObjectWCF.csprojAssemblyReference.cache
+D:\TILN\TSP.NET\Labs\WCF si EF\ObjectWCF\ObjectWCF\obj\Debug\ObjectWCF.csproj.CoreCompileInputs.cache
+D:\TILN\TSP.NET\Labs\WCF si EF\ObjectWCF\ObjectWCF\obj\Debug\ObjectWCF.csproj.CopyComplete
+D:\TILN\TSP.NET\Labs\WCF si EF\ObjectWCF\ObjectWCF\obj\Debug\ObjectWCF.dll
+D:\TILN\TSP.NET\Labs\WCF si EF\ObjectWCF\ObjectWCF\obj\Debug\ObjectWCF.pdb

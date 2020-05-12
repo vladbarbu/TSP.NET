@@ -44,8 +44,9 @@
     <Reference Include="System.Data" />
     <Reference Include="System.Net.Http" />
     <Reference Include="System.Xml" />
-    <Reference Include="WCF si EF">
-      <HintPath>..\..\WCF si EF\WCF si EF\bin\Debug\WCF si EF.dll</HintPath>
+    <Reference Include="WCF si EF, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\PostComment\WCF si EF\bin\Debug\WCF si EF.dll</HintPath>
     </Reference>
   </ItemGroup>
   <ItemGroup>

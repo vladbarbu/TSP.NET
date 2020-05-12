@@ -22,3 +22,15 @@ F:\GitHub\TSP.NET\Labs\WCF si EF\PostComment\WCF si EF\obj\Debug\WCF si EF.cspro
 F:\GitHub\TSP.NET\Labs\WCF si EF\PostComment\WCF si EF\obj\Debug\WCF si EF.csproj.CopyComplete
 F:\GitHub\TSP.NET\Labs\WCF si EF\PostComment\WCF si EF\obj\Debug\WCF si EF.dll
 F:\GitHub\TSP.NET\Labs\WCF si EF\PostComment\WCF si EF\obj\Debug\WCF si EF.pdb
+D:\TILN\TSP.NET\Labs\WCF si EF\PostComment\WCF si EF\bin\Debug\WCF si EF.dll.config
+D:\TILN\TSP.NET\Labs\WCF si EF\PostComment\WCF si EF\bin\Debug\WCF si EF.dll
+D:\TILN\TSP.NET\Labs\WCF si EF\PostComment\WCF si EF\bin\Debug\WCF si EF.pdb
+D:\TILN\TSP.NET\Labs\WCF si EF\PostComment\WCF si EF\bin\Debug\EntityFramework.dll
+D:\TILN\TSP.NET\Labs\WCF si EF\PostComment\WCF si EF\bin\Debug\EntityFramework.SqlServer.dll
+D:\TILN\TSP.NET\Labs\WCF si EF\PostComment\WCF si EF\bin\Debug\EntityFramework.xml
+D:\TILN\TSP.NET\Labs\WCF si EF\PostComment\WCF si EF\bin\Debug\EntityFramework.SqlServer.xml
+D:\TILN\TSP.NET\Labs\WCF si EF\PostComment\WCF si EF\obj\Debug\WCF si EF.csprojAssemblyReference.cache
+D:\TILN\TSP.NET\Labs\WCF si EF\PostComment\WCF si EF\obj\Debug\WCF si EF.csproj.CoreCompileInputs.cache
+D:\TILN\TSP.NET\Labs\WCF si EF\PostComment\WCF si EF\obj\Debug\WCF si EF.csproj.CopyComplete
+D:\TILN\TSP.NET\Labs\WCF si EF\PostComment\WCF si EF\obj\Debug\WCF si EF.dll
+D:\TILN\TSP.NET\Labs\WCF si EF\PostComment\WCF si EF\obj\Debug\WCF si EF.pdb

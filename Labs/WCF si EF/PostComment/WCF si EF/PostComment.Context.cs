@@ -16,11 +16,8 @@ namespace WCF_si_EF
     public partial class PostCommentContainer : DbContext
     {
         public PostCommentContainer()
-            : base("name=ModelPostCommentContainer")
+            : base("name=PostCommentContainer")
         {
-            // Inhibare: lazy loading si creare proxy dinamic.
-            Configuration.LazyLoadingEnabled = false;
-            Configuration.ProxyCreationEnabled = false;
         }
     
         protected override void OnModelCreating(DbModelBuilder modelBuilder)

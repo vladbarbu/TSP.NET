@@ -6,3 +6,12 @@ F:\GitHub\TSP.NET\Labs\WCF si EF\ObjectWCF\Client\obj\Debug\Client.csproj.Genera
 F:\GitHub\TSP.NET\Labs\WCF si EF\ObjectWCF\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
 F:\GitHub\TSP.NET\Labs\WCF si EF\ObjectWCF\Client\obj\Debug\Client.exe
 F:\GitHub\TSP.NET\Labs\WCF si EF\ObjectWCF\Client\obj\Debug\Client.pdb
+D:\TILN\TSP.NET\Labs\WCF si EF\ObjectWCF\Client\bin\Debug\Client.exe.config
+D:\TILN\TSP.NET\Labs\WCF si EF\ObjectWCF\Client\bin\Debug\Client.exe
+D:\TILN\TSP.NET\Labs\WCF si EF\ObjectWCF\Client\bin\Debug\Client.pdb
+D:\TILN\TSP.NET\Labs\WCF si EF\ObjectWCF\Client\obj\Debug\Client.csprojAssemblyReference.cache
+D:\TILN\TSP.NET\Labs\WCF si EF\ObjectWCF\Client\obj\Debug\Client.Properties.Resources.resources
+D:\TILN\TSP.NET\Labs\WCF si EF\ObjectWCF\Client\obj\Debug\Client.csproj.GenerateResource.cache
+D:\TILN\TSP.NET\Labs\WCF si EF\ObjectWCF\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
+D:\TILN\TSP.NET\Labs\WCF si EF\ObjectWCF\Client\obj\Debug\Client.exe
+D:\TILN\TSP.NET\Labs\WCF si EF\ObjectWCF\Client\obj\Debug\Client.pdb
