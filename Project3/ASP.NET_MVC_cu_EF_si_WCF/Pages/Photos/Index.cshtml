@@ -1,0 +1,52 @@
+﻿@page
+@model ASP.NET_MVC_cu_EF_si_WCF.Pages.Photos.IndexModel
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Photos</h1>
+
+<form>
+    <p>
+        Property name or description: <input type="text" asp-for="SearchString" />
+        <input type="submit" value="Filter" />
+    </p>
+</form>
+<p>
+    Number of images/movies: @Model.Photos.Count
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Photos[0].Photo_Id)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Photos[0].Photo_Path)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Photos[0].Photo_Date)
+            </th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model.Photos)
+        {
+            <tr style="font-size:small">
+                <td>
+                    @Html.DisplayFor(modelItem => item.Photo_Id)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Photo_Path)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Photo_Date)
+                </td>
+                <td>
+                    <a asp-page="./Delete" asp-route-id="@item.Photo_Id">Delete</a> |
+                    <a asp-page="/Properties/List" asp-route-id="@item.Photo_Id">Properties</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

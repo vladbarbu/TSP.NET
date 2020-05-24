@@ -45,3 +45,7 @@ D:\TILN\TSP.NET\Labs\WCF si EF\ObjectWCF\HostWCF\bin\Debug\EntityFramework.dll
 D:\TILN\TSP.NET\Labs\WCF si EF\ObjectWCF\HostWCF\bin\Debug\WCF si EF.pdb
 D:\TILN\TSP.NET\Labs\WCF si EF\ObjectWCF\HostWCF\bin\Debug\WCF si EF.dll.config
 D:\TILN\TSP.NET\Labs\WCF si EF\ObjectWCF\HostWCF\bin\Debug\EntityFramework.xml
+F:\GitHub\TSP.NET\Labs\WCF si EF\ObjectWCF\HostWCF\bin\Debug\EntityFramework.dll
+F:\GitHub\TSP.NET\Labs\WCF si EF\ObjectWCF\HostWCF\bin\Debug\WCF si EF.pdb
+F:\GitHub\TSP.NET\Labs\WCF si EF\ObjectWCF\HostWCF\bin\Debug\WCF si EF.dll.config
+F:\GitHub\TSP.NET\Labs\WCF si EF\ObjectWCF\HostWCF\bin\Debug\EntityFramework.xml

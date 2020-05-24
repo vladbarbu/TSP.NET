@@ -1,0 +1,43 @@
+﻿@page
+@model ASP.NET_MVC_cu_EF_si_WCF.Pages.Properties.ListModel
+@{
+    ViewData["Title"] = "List";
+}
+
+<h3>Properties for @ViewData["Photo"]</h3>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Props[0].Property_Id)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Props[0].Property_Name)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Props[0].Property_Description)
+            </th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model.Props)
+        {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Property_Id)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Property_Name)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Property_Description)
+            </td>
+ 
+        </tr>
+        }
+    </tbody>
+</table>
+<div>
+    <a asp-page="/Photos/Index">Back to List</a>
+</div>
+
